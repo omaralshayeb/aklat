@@ -18,7 +18,7 @@ Vanilla Javascript, HTML, SCSS
 
 ```shell
 $ git clone https://github.com/omaralshayeb/aklat.git
-$ cd aklat
+$ cd aklat-v2
 $ npm install parcel
 $ npm install
 $ npm start
